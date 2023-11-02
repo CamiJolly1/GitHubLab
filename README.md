@@ -1,2 +1,3 @@
 # GitHubLab
-GitHub Lab 
+GitHub 
+Welcome to th first Github lab!
